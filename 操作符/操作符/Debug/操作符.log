@@ -1,0 +1,3 @@
+﻿  test.c
+D:\c\Project1\操作符\操作符\test.c(72,5): warning C4552: ”>>“: 未使用表达式结果
+  操作符.vcxproj -> D:\c\Project1\操作符\Debug\操作符.exe
